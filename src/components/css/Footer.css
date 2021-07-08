@@ -1,0 +1,57 @@
+.copyright {
+  align-content: center;
+}
+.foot {
+  padding: 5%;
+  background-color: #212529;
+  color: white;
+}
+.footer-social-icons {
+  text-align: center;
+  font-size: 20px;
+}
+.fa-facebook {
+  background: #3b5998;
+}
+.fa-twitter {
+  background: #337ab7;
+}
+.fa-instagram {
+  background: #fb3958;
+}
+.fa-youtube {
+  background: #e64a41;
+}
+.fa-linkedin {
+  background: #0073a4;
+}
+.fa-google-plus {
+  background: #e64a41;
+}
+.fa {
+  padding: 0.5%;
+  text-align: center;
+  margin: 5px 2px;
+  border-radius: 100%;
+  color: white;
+}
+@media (max-width: 1300px) and (min-width: 770px) {
+  .edu-col-1 {
+    margin-left: 25%;
+  }
+}
+@media (max-width: 1300px) {
+  .logo {
+    text-align: center;
+  }
+  .carousel-2 {
+    margin: 20px 15px 20px 10px;
+  }
+  .about-head-1 {
+    font-size: 15px !important;
+
+    padding: 0 0.5rem 0 0.5rem !important;
+    left: 50%;
+    margin-left: -100px;
+  }
+}
